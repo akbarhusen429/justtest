@@ -1,3 +1,3 @@
 <?php
 
-echo "hello GIT";
+echo "Hello file changed";
